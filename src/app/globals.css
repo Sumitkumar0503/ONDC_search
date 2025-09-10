@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
-
 :root {
   --ondc-green: #0A8F47;
   --success-green: #16A34A;
@@ -18,7 +16,7 @@
 }
 
 body {
-  font-family: 'Inter', 'SF Pro Display', -apple-system, sans-serif;
+  font-family: var(--font-inter), 'SF Pro Display', -apple-system, sans-serif;
   background: #FFFFFF;
   color: #171717;
 }

@@ -1,0 +1,3056 @@
+{
+  "seller.tipplr.in|merchant-174487640004687414|608": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|553": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|610": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2623": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2632": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2697": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2690": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2621": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2622": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2625": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2626": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|1121": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2002": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2686": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2698": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|1120": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|1879": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2235": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2234": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2387": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2386": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|1303": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2689": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2691": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|1423": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|10031": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|3517": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|1123": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2319": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2347": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2318": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174487640004687414|2198": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-167888339075426883|43154531": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-167888339075426883|81223494": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-167888339075426883|81223507": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-167888339075426883|81223517": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-167888339149933125|43155274": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-167888339149933125|92903389": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175188990994148785|1280816530": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175188990994148785|1280816528": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-168778625892265090|itm_556156_5320750": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080762": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080760": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080761": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080767": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080766": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080763": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080764": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080765": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|84379627": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|84379628": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|84379629": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|84379632": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|85698840": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|88658061": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|88658062": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080793": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080789": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080785": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080790": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080791": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080786": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080788": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080784": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080792": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080845": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080849": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|85698835": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080871": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080823": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080865": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080861": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080832": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080838": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080826": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|85698836": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080909": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080912": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080908": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080917": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080915": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080900": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080916": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080910": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|6474|73080898": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "ondcseller-prod.costbo.com|ca3841fc96854c09b1165671995d593d|49dfe1f0bf59483098abdcd6e67a0dda": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341299": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341271": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341285": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341262": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341300": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341276": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341277": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341286": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341265": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341269": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341261": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341272": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341287": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341268": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341266": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341301": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341302": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341303": {
+    "llm": "unknown",
+    "conf": 0.2,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341263": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341264": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341267": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341273": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341270": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|rareaGcACZ": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|jQdkIouIgV": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|WVnvhXEayz": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|9PeJAs7XTx": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|mWHw6T3TRp": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|UuVIcx1lgz": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|S2N2LSejRT": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|kMuI9SgZvf": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|4HlHwqiAkb": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|6PYn5pYgkj": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|huQiddCpcU": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|Kj6wLdUXPT": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|b6Ep7IRjET": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-175584844699019407|LuHLu9v2A6": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071865": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|110532183": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|110594386": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|110532182": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|110532180": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|109452516": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|109452515": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|109452514": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071848": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071850": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071845": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071691": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071699": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071724": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071719": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071713": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071693": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071707": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071697": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071717": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071711": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071726": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071705": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071703": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071709": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071715": {
+    "llm": "unknown",
+    "conf": 0.2,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071723": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071721": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071695": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071701": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071786": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071784": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071677": {
+    "llm": "non_veg",
+    "conf": 0.8,
+    "final": "non_veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071682": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071687": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071518": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071787": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071789": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071778": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071782": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071783": {
+    "llm": "veg",
+    "conf": 0.85,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071788": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071781": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071785": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071780": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071779": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071774": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071773": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071777": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071776": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071775": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071768": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071769": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071770": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071772": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071771": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071767": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071764": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071765": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071763": {
+    "llm": "veg",
+    "conf": 0.85,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071766": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071762": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071758": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071757": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071761": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071746": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071760": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071756": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071753": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071759": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071738": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071736": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071532": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071794": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071795": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071793": {
+    "llm": "veg",
+    "conf": 0.8,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071791": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071792": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071799": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071808": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071809": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071802": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071800": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071804": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071498": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071806": {
+    "llm": "veg",
+    "conf": 0.85,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071798": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071497": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071801": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071501": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071499": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071525": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071530": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071864": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071861": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071858": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071854": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|103071857": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|110532169": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|54234285": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "smartsell.samhita.org|42616|ondc1037": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "smartsell.samhita.org|42616|ondc1038": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "smartsell.samhita.org|42616|ondc1039": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "smartsell.samhita.org|42616|ondc1104": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "smartsell.samhita.org|42616|ondc1583": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440882": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440883": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440884": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440886": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440887": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440888": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440889": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440929": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440931": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440890": {
+    "llm": "non_veg",
+    "conf": 0.8,
+    "final": "non_veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440891": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440892": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440893": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440894": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440895": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440896": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440897": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440898": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440899": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440900": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440901": {
+    "llm": "veg",
+    "conf": 0.8,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440902": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440903": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440904": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440914": {
+    "llm": "non_veg",
+    "conf": 0.8,
+    "final": "non_veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440915": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440916": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440917": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440918": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440919": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440920": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440921": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440922": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440923": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440924": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440925": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440926": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440927": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440928": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440905": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440906": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440907": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440908": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440909": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440910": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440911": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440912": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435440913": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441429": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441423": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441263": {
+    "llm": "non_veg",
+    "conf": 0.8,
+    "final": "non_veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441264": {
+    "llm": "non_veg",
+    "conf": 0.8,
+    "final": "non_veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441265": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441266": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441267": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441098": {
+    "llm": "veg",
+    "conf": 0.8,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441100": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441430": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441431": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441432": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441433": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441434": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441440": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441441": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441442": {
+    "llm": "veg",
+    "conf": 0.85,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441443": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441444": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441393": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441394": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441395": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441396": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441397": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441413": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441414": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441415": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441416": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441417": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441418": {
+    "llm": "unknown",
+    "conf": 0.2,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441419": {
+    "llm": "unknown",
+    "conf": 0.1,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441420": {
+    "llm": "unknown",
+    "conf": 0.1,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441421": {
+    "llm": "unknown",
+    "conf": 0.3,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441422": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441435": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441436": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441437": {
+    "llm": "unknown",
+    "conf": 0.2,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441438": {
+    "llm": "unknown",
+    "conf": 0.1,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441439": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441408": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441409": {
+    "llm": "unknown",
+    "conf": 0.2,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441410": {
+    "llm": "unknown",
+    "conf": 0.2,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441411": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441412": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441424": {
+    "llm": "unknown",
+    "conf": 0.2,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441425": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441426": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441427": {
+    "llm": "unknown",
+    "conf": 0.1,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441428": {
+    "llm": "unknown",
+    "conf": 0.2,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441403": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441404": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441405": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441406": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441407": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441398": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441399": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441400": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441401": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441402": {
+    "llm": "veg",
+    "conf": 0.8,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441373": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441374": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441375": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441376": {
+    "llm": "veg",
+    "conf": 0.99,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441377": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441368": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441369": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441370": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441371": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441372": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441388": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441389": {
+    "llm": "veg",
+    "conf": 0.85,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441390": {
+    "llm": "veg",
+    "conf": 0.85,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441391": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441392": {
+    "llm": "veg",
+    "conf": 0.99,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441383": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441384": {
+    "llm": "veg",
+    "conf": 0.85,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441385": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441386": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441387": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441378": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441379": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441380": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441381": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441382": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441343": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441344": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441345": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441346": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441347": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441348": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441349": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441350": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441351": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441352": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441353": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441354": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441355": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441356": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441357": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441363": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441364": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441365": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441366": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441367": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441358": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441359": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441360": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441361": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441362": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441338": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441339": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441340": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441341": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441342": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441323": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441324": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441325": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441326": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441327": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441328": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441329": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441330": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441331": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441332": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441318": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441319": {
+    "llm": "unknown",
+    "conf": 0.2,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441320": {
+    "llm": "unknown",
+    "conf": 0.1,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441321": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441322": {
+    "llm": "unknown",
+    "conf": 0.2,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441333": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441334": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441335": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441336": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441337": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441313": {
+    "llm": "veg",
+    "conf": 0.9,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441314": {
+    "llm": "veg",
+    "conf": 0.7,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441315": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441316": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441317": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441293": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441294": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441295": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441296": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441297": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441288": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441289": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441290": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441291": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441292": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441308": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441309": {
+    "llm": "veg",
+    "conf": 0.99,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441310": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441311": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441312": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441273": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441274": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441275": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441276": {
+    "llm": "veg",
+    "conf": 1.0,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441277": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441303": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441304": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441305": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441306": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441307": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441283": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441284": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441285": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441286": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441287": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441278": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441279": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441280": {
+    "llm": "veg",
+    "conf": 0.99,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441281": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441282": {
+    "llm": "unknown",
+    "conf": 0.6,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441298": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441299": {
+    "llm": "unknown",
+    "conf": 0.2,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441300": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441301": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441302": {
+    "llm": "unknown",
+    "conf": 0.5,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441268": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441269": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441270": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441271": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441272": {
+    "llm": "veg",
+    "conf": 0.98,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441121": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441123": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441125": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441127": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441129": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441448": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441447": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441450": {
+    "llm": "unknown",
+    "conf": 0.7,
+    "final": "unknown",
+    "source": "unknown"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441106": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|47019639|435441119": {
+    "llm": "veg",
+    "conf": 0.95,
+    "final": "veg",
+    "source": "llm"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|136192220": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|136192221": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|471920874": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|136192222": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|136192223": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|136192224": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|136192225": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|136192226": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|136192227": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|136192228": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|136192229": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "webapi.magicpin.in/oms_partner/ondc|46032213|136192230": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341298:1396045": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341298:1396046": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341298:1396048": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341298:1396049": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341298:1396050": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341298:1396051": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341298:1396052": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341262:261151": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341262:261152": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341265:261157": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341265:261158": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341260:261147": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341260:261148": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341268:261163": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341268:261164": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341263:261153": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341263:261154": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341259:261145": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341259:261146": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341267:261161": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341267:261162": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341273:261173": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341273:261174": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341258:261143": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341258:261144": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341256:261139": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  },
+  "seller.tipplr.in|merchant-174048694250713361|90341256:261140": {
+    "llm": "unknown",
+    "conf": 0.0,
+    "final": "non_veg",
+    "source": "heuristic"
+  }
+}

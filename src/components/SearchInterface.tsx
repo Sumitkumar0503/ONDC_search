@@ -41,6 +41,7 @@ export default function SearchInterface() {
   const [results, setResults] = useState<SearchResult[]>([]);
   const [loading, setLoading] = useState(false);
   const [searchResponse, setSearchResponse] = useState<SearchResponse | null>(null);
+  const [isDemoMode, setIsDemoMode] = useState(false);
 
   const sampleQueries = [
     { text: 'quick dinner ideas', icon: Pizza },
@@ -56,10 +57,18 @@ export default function SearchInterface() {
       const response = await searchProducts(searchQuery);
       setSearchResponse(response);
       setResults(response.results || []);
+      
+      // Check if we're in demo mode (when API is not available)
+      const isDemo = response.results?.some(result => 
+        result.provider_name?.includes('Demo') || 
+        result.name?.includes('Sample')
+      );
+      setIsDemoMode(isDemo || false);
     } catch (error) {
       console.error('Search error:', error);
       setResults([]);
       setSearchResponse(null);
+      setIsDemoMode(true);
     } finally {
       setLoading(false);
     }
@@ -145,9 +154,21 @@ export default function SearchInterface() {
           {results.length > 0 ? (
             <>
               <div className="flex justify-between items-center mb-6">
-                <h2 className="text-2xl font-semibold text-gray-900">
-                  Search Results
-                </h2>
+                <div>
+                  <h2 className="text-2xl font-semibold text-gray-900">
+                    Search Results
+                  </h2>
+                  {isDemoMode && (
+                    <div className="flex items-center gap-2 mt-1">
+                      <div className="bg-orange-100 text-orange-700 px-2 py-1 rounded text-xs font-medium">
+                        DEMO MODE
+                      </div>
+                      <span className="text-xs text-gray-500">
+                        API not available - showing sample data
+                      </span>
+                    </div>
+                  )}
+                </div>
                 <div className="text-sm text-gray-500">
                   Found {results.length} results in {Math.round(searchResponse.timings.total_ms)}ms
                 </div>
